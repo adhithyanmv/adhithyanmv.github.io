@@ -1,1 +1,1 @@
-[view my portfolio][https://adhithyanmv.github.io/]
+<a href="https://adhithyanmv.github.io/" target="_blank">View my portfolio</a>
